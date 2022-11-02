@@ -4,6 +4,6 @@
 
 +46767909008
 
-[Mail Me](mailto:patrick.henriksson@greatstack.se)
+[Mail](mailto:patrick.henriksson@greatstack.se)
 
-[LinkedIn](https://www.linkedin.com/in/patrick-henriksson-0099b93/)
+[$whoami](https://www.linkedin.com/in/patrick-henriksson-0099b93/)
